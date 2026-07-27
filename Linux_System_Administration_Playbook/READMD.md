@@ -55,7 +55,7 @@ systemctl restart httpd: Restarts Apache to apply the new configuration.
 
 systemctl restart httpd: Restarts Apache to apply the new configuration.
 
-2. Group Creation and User Assignment
+# 2. Group Creation and User Assignment
 ## 📌 Task Overview
 
 Create a new administrative group (sysadmin_group) and assign a user (mohammed) to it.

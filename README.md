@@ -2,7 +2,7 @@
 
 # 👨‍💻 Author
 
-**Shubham Kahar**
+Shubham Kahar
 
 MERN Stack Developer | DevOps Enthusiast
 
@@ -12,10 +12,10 @@ MERN Stack Developer | DevOps Enthusiast
 
 ## 🌐 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
-- Portfolio: https://your-portfolio.com
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/shubham-kahar-586199275
+- GitHub: https://github.com/Shubhamkahar196
+
+- Email: shubhamkahar196@gmail.com
 
 ---
 
